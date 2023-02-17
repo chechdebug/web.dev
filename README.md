@@ -1,5 +1,6 @@
 # web.dev
 Curso de Desarrollo Web
+
 Este repositorio contiene los archivos y proyectos utilizados durante el curso de Desarrollo Web, el cual fue iniciado después de la entrega del proyecto Letther de la Hackathón de la Media Party 2022, con el objetivo de mejorar habilidades técnicas en desarrollo y programación.
 
 Objetivos
